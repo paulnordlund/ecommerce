@@ -1,0 +1,28 @@
+.highlights-container {
+    background: $white;
+    /* background: linear-gradient(to bottom, $lighter, $darker); */
+    padding: 1em;
+    color: $dark;
+    overflow-y: auto;
+    overflow-x: hidden;
+    font-size: .9em;
+}
+
+.highlights-heading {
+  font-size: 2em !important;
+  /* font-weight: bold; */
+}
+
+.highlights-list {
+  margin-left: .6em !important;
+  padding-left: .6em !important;
+}
+
+.highlights-list-item {
+  color: $lightgrey;
+}
+
+/* @media (min-width: $large-screen) {
+  margin-right: 15px;
+} */
+  

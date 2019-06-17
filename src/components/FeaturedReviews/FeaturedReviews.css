@@ -1,0 +1,119 @@
+.featured-reviews-container {
+    background: $white;
+    /* background: linear-gradient(to bottom, $lighter, $darker); */
+    padding: .5em;
+    margin: .5em;
+    color: $dark;
+    overflow-y: auto;
+    overflow-x: hidden;
+    border: none !important;
+}
+
+.featured-reviews-header {
+  padding-bottom: 1em;
+}
+
+.featured-review-ranking-md {
+  margin: 0;
+  padding: 0;
+}
+
+.featured-review-ranking-xs {
+  margin: 0;
+  padding: 0;
+}
+
+.overall-review-ranking {
+  margin-left: .5em;
+  font: bold .9em sans-serif;
+  vertical-align: bottom;
+}
+
+.all-reviews-link {
+  text-decoration: none;
+  color: $dark;
+  font: bold .9em sans-serif;
+  vertical-align: bottom !important;
+  float: right;
+}
+
+.well {
+  background: $lightestgrey !important;
+  border: none !important;
+  border-radius: 1px !important;
+  padding: 1em !important;
+  margin: 0 !important;
+}
+
+.featured-reviews-well-header {
+  border-bottom: 1px solid gray !important;
+}
+
+.featured-postive-review {
+  margin: 0;
+  /* border-bottom: 1px solid $lightgrey !important; */
+}
+
+.featured-negative-review {
+  margin: 0;
+  /* border-bottom: 1px solid $lightgrey !important; */
+}
+
+.featured-review-heading {
+  font-size: 16px !important;
+  margin: 0 !important;
+}
+
+.featured-review-category {
+  font-size: .7em;
+  color: $lightgrey;
+}
+
+.featured-reviews-details {
+  margin: 0;
+  padding: 0;
+}
+
+.filled-star-md {
+  color: $gold;
+  font-size: 1.3em;
+}
+
+.empty-star-md{
+  color: $lightgrey;
+  font-size: 1.3em;
+}
+
+.filled-star-xs {
+  color: $gold;
+  font-size: .8em;
+}
+
+.empty-star-xs {
+  color: $lightgrey;
+  font-size: .8em;
+}
+
+.featured-review-title {
+  font-size: 1em;
+  font-weight: bold;
+}
+
+.featured-review-summary {
+  color: $lightgrey;
+  font-size: .7em;
+}
+
+.featured-review-username {
+  text-decoration: underline !important;
+  color: $blue !important;
+  font-size: .7em;
+}
+
+.review-date {
+  font-size: .7em;
+}
+
+/* @media (min-width: $large-screen) {
+  margin-right: 15px;
+} */

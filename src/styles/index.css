@@ -1,0 +1,7 @@
+@import "normalize.css";
+@import "./variables.css";
+@import "./body.css"; 
+@import "../components/Carousel/Carousel.css";
+@import "../components/FeaturedReviews/FeaturedReviews.css";
+@import "../components/Actions/Actions.css";
+@import "../components/Highlights/Highlights.css";

@@ -1,0 +1,417 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Reviews renders 1`] = `
+ShallowWrapper {
+  "length": 1,
+  Symbol(enzyme.__root__): [Circular],
+  Symbol(enzyme.__unrendered__): <Reviews
+    store={Object {}}
+/>,
+  Symbol(enzyme.__renderer__): Object {
+    "batchedUpdates": [Function],
+    "getNode": [Function],
+    "render": [Function],
+    "simulateEvent": [Function],
+    "unmount": [Function],
+  },
+  Symbol(enzyme.__node__): Object {
+    "instance": null,
+    "key": undefined,
+    "nodeType": "host",
+    "props": Object {
+      "children": <Grid
+        bsClass="container"
+        componentClass="div"
+        fluid={false}
+>
+        <Row
+                bsClass="row"
+                className="show-grid"
+                componentClass="div"
+        >
+                <Col
+                        bsClass="col"
+                        componentClass="div"
+                        sm={6}
+                        xs={12}
+                >
+                        <Col
+                                bsClass="col"
+                                componentClass="div"
+                                xs={12}
+                        >
+                                <Link
+                                        replace={false}
+                                        to="/"
+                                >
+                                        Back To Item
+                                </Link>
+                                <h2>
+                                        All Full Reviews Section Goes Here
+                                </h2>
+                        </Col>
+                </Col>
+        </Row>
+</Grid>,
+      "className": "reviews",
+    },
+    "ref": null,
+    "rendered": Object {
+      "instance": null,
+      "key": undefined,
+      "nodeType": "class",
+      "props": Object {
+        "bsClass": "container",
+        "children": <Row
+          bsClass="row"
+          className="show-grid"
+          componentClass="div"
+>
+          <Col
+                    bsClass="col"
+                    componentClass="div"
+                    sm={6}
+                    xs={12}
+          >
+                    <Col
+                              bsClass="col"
+                              componentClass="div"
+                              xs={12}
+                    >
+                              <Link
+                                        replace={false}
+                                        to="/"
+                              >
+                                        Back To Item
+                              </Link>
+                              <h2>
+                                        All Full Reviews Section Goes Here
+                              </h2>
+                    </Col>
+          </Col>
+</Row>,
+        "componentClass": "div",
+        "fluid": false,
+      },
+      "ref": null,
+      "rendered": Object {
+        "instance": null,
+        "key": undefined,
+        "nodeType": "class",
+        "props": Object {
+          "bsClass": "row",
+          "children": <Col
+            bsClass="col"
+            componentClass="div"
+            sm={6}
+            xs={12}
+>
+            <Col
+                        bsClass="col"
+                        componentClass="div"
+                        xs={12}
+            >
+                        <Link
+                                    replace={false}
+                                    to="/"
+                        >
+                                    Back To Item
+                        </Link>
+                        <h2>
+                                    All Full Reviews Section Goes Here
+                        </h2>
+            </Col>
+</Col>,
+          "className": "show-grid",
+          "componentClass": "div",
+        },
+        "ref": null,
+        "rendered": Object {
+          "instance": null,
+          "key": undefined,
+          "nodeType": "class",
+          "props": Object {
+            "bsClass": "col",
+            "children": <Col
+              bsClass="col"
+              componentClass="div"
+              xs={12}
+>
+              <Link
+                            replace={false}
+                            to="/"
+              >
+                            Back To Item
+              </Link>
+              <h2>
+                            All Full Reviews Section Goes Here
+              </h2>
+</Col>,
+            "componentClass": "div",
+            "sm": 6,
+            "xs": 12,
+          },
+          "ref": null,
+          "rendered": Object {
+            "instance": null,
+            "key": undefined,
+            "nodeType": "class",
+            "props": Object {
+              "bsClass": "col",
+              "children": Array [
+                <Link
+                  replace={false}
+                  to="/"
+>
+                  Back To Item
+</Link>,
+                <h2>
+                  All Full Reviews Section Goes Here
+</h2>,
+              ],
+              "componentClass": "div",
+              "xs": 12,
+            },
+            "ref": null,
+            "rendered": Array [
+              Object {
+                "instance": null,
+                "key": undefined,
+                "nodeType": "class",
+                "props": Object {
+                  "children": "Back To Item",
+                  "replace": false,
+                  "to": "/",
+                },
+                "ref": null,
+                "rendered": "Back To Item",
+                "type": [Function],
+              },
+              Object {
+                "instance": null,
+                "key": undefined,
+                "nodeType": "host",
+                "props": Object {
+                  "children": "All Full Reviews Section Goes Here",
+                },
+                "ref": null,
+                "rendered": "All Full Reviews Section Goes Here",
+                "type": "h2",
+              },
+            ],
+            "type": [Function],
+          },
+          "type": [Function],
+        },
+        "type": [Function],
+      },
+      "type": [Function],
+    },
+    "type": "div",
+  },
+  Symbol(enzyme.__nodes__): Array [
+    Object {
+      "instance": null,
+      "key": undefined,
+      "nodeType": "host",
+      "props": Object {
+        "children": <Grid
+          bsClass="container"
+          componentClass="div"
+          fluid={false}
+>
+          <Row
+                    bsClass="row"
+                    className="show-grid"
+                    componentClass="div"
+          >
+                    <Col
+                              bsClass="col"
+                              componentClass="div"
+                              sm={6}
+                              xs={12}
+                    >
+                              <Col
+                                        bsClass="col"
+                                        componentClass="div"
+                                        xs={12}
+                              >
+                                        <Link
+                                                  replace={false}
+                                                  to="/"
+                                        >
+                                                  Back To Item
+                                        </Link>
+                                        <h2>
+                                                  All Full Reviews Section Goes Here
+                                        </h2>
+                              </Col>
+                    </Col>
+          </Row>
+</Grid>,
+        "className": "reviews",
+      },
+      "ref": null,
+      "rendered": Object {
+        "instance": null,
+        "key": undefined,
+        "nodeType": "class",
+        "props": Object {
+          "bsClass": "container",
+          "children": <Row
+            bsClass="row"
+            className="show-grid"
+            componentClass="div"
+>
+            <Col
+                        bsClass="col"
+                        componentClass="div"
+                        sm={6}
+                        xs={12}
+            >
+                        <Col
+                                    bsClass="col"
+                                    componentClass="div"
+                                    xs={12}
+                        >
+                                    <Link
+                                                replace={false}
+                                                to="/"
+                                    >
+                                                Back To Item
+                                    </Link>
+                                    <h2>
+                                                All Full Reviews Section Goes Here
+                                    </h2>
+                        </Col>
+            </Col>
+</Row>,
+          "componentClass": "div",
+          "fluid": false,
+        },
+        "ref": null,
+        "rendered": Object {
+          "instance": null,
+          "key": undefined,
+          "nodeType": "class",
+          "props": Object {
+            "bsClass": "row",
+            "children": <Col
+              bsClass="col"
+              componentClass="div"
+              sm={6}
+              xs={12}
+>
+              <Col
+                            bsClass="col"
+                            componentClass="div"
+                            xs={12}
+              >
+                            <Link
+                                          replace={false}
+                                          to="/"
+                            >
+                                          Back To Item
+                            </Link>
+                            <h2>
+                                          All Full Reviews Section Goes Here
+                            </h2>
+              </Col>
+</Col>,
+            "className": "show-grid",
+            "componentClass": "div",
+          },
+          "ref": null,
+          "rendered": Object {
+            "instance": null,
+            "key": undefined,
+            "nodeType": "class",
+            "props": Object {
+              "bsClass": "col",
+              "children": <Col
+                bsClass="col"
+                componentClass="div"
+                xs={12}
+>
+                <Link
+                                replace={false}
+                                to="/"
+                >
+                                Back To Item
+                </Link>
+                <h2>
+                                All Full Reviews Section Goes Here
+                </h2>
+</Col>,
+              "componentClass": "div",
+              "sm": 6,
+              "xs": 12,
+            },
+            "ref": null,
+            "rendered": Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "class",
+              "props": Object {
+                "bsClass": "col",
+                "children": Array [
+                  <Link
+                    replace={false}
+                    to="/"
+>
+                    Back To Item
+</Link>,
+                  <h2>
+                    All Full Reviews Section Goes Here
+</h2>,
+                ],
+                "componentClass": "div",
+                "xs": 12,
+              },
+              "ref": null,
+              "rendered": Array [
+                Object {
+                  "instance": null,
+                  "key": undefined,
+                  "nodeType": "class",
+                  "props": Object {
+                    "children": "Back To Item",
+                    "replace": false,
+                    "to": "/",
+                  },
+                  "ref": null,
+                  "rendered": "Back To Item",
+                  "type": [Function],
+                },
+                Object {
+                  "instance": null,
+                  "key": undefined,
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": "All Full Reviews Section Goes Here",
+                  },
+                  "ref": null,
+                  "rendered": "All Full Reviews Section Goes Here",
+                  "type": "h2",
+                },
+              ],
+              "type": [Function],
+            },
+            "type": [Function],
+          },
+          "type": [Function],
+        },
+        "type": [Function],
+      },
+      "type": "div",
+    },
+  ],
+  Symbol(enzyme.__options__): Object {
+    "adapter": ReactSixteenAdapter {
+      "options": Object {
+        "enableComponentDidUpdateOnSetState": true,
+      },
+    },
+  },
+}
+`;

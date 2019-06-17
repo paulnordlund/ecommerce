@@ -1,0 +1,879 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Highlights renders 1`] = `
+ShallowWrapper {
+  "length": 1,
+  Symbol(enzyme.__root__): [Circular],
+  Symbol(enzyme.__unrendered__): <Unknown />,
+  Symbol(enzyme.__renderer__): Object {
+    "batchedUpdates": [Function],
+    "getNode": [Function],
+    "render": [Function],
+    "simulateEvent": [Function],
+    "unmount": [Function],
+  },
+  Symbol(enzyme.__node__): Object {
+    "instance": null,
+    "key": undefined,
+    "nodeType": "host",
+    "props": Object {
+      "children": <Row
+        bsClass="row"
+        componentClass="div"
+>
+        <Col
+                bsClass="col"
+                componentClass="div"
+                xs={12}
+        >
+                <p
+                        className="highlights-heading"
+                >
+                        product highlights
+                </p>
+                <ul
+                        className="highlights-list"
+                >
+                        <li
+                                className="highlights-list-item"
+                        >
+                                Wattage Output: 1100 Watts
+                        </li>
+                        <li
+                                className="highlights-list-item"
+                        >
+                                Number of Speeds: 3
+                        </li>
+                        <li
+                                className="highlights-list-item"
+                        >
+                                Capacity (volume): 72.0 Oz.
+                        </li>
+                        <li
+                                className="highlights-list-item"
+                        >
+                                Appliance Capabilities: Blends
+                        </li>
+                        <li
+                                className="highlights-list-item"
+                        >
+                                Includes: Travel Lid
+                        </li>
+                        <li
+                                className="highlights-list-item"
+                        >
+                                Material: Plastic
+                        </li>
+                        <li
+                                className="highlights-list-item"
+                        >
+                                Finish: Painted
+                        </li>
+                        <li
+                                className="highlights-list-item"
+                        >
+                                Metal Finish: Chrome
+                        </li>
+                        <li
+                                className="highlights-list-item"
+                        >
+                                Safety and Security Features: Non-Slip Base
+                        </li>
+                        <li
+                                className="highlights-list-item"
+                        >
+                                Care and Cleaning: Easy-To-Clean, Dishwasher Safe Parts
+                        </li>
+                </ul>
+        </Col>
+</Row>,
+      "className": "highlights-container",
+    },
+    "ref": null,
+    "rendered": Object {
+      "instance": null,
+      "key": undefined,
+      "nodeType": "class",
+      "props": Object {
+        "bsClass": "row",
+        "children": <Col
+          bsClass="col"
+          componentClass="div"
+          xs={12}
+>
+          <p
+                    className="highlights-heading"
+          >
+                    product highlights
+          </p>
+          <ul
+                    className="highlights-list"
+          >
+                    <li
+                              className="highlights-list-item"
+                    >
+                              Wattage Output: 1100 Watts
+                    </li>
+                    <li
+                              className="highlights-list-item"
+                    >
+                              Number of Speeds: 3
+                    </li>
+                    <li
+                              className="highlights-list-item"
+                    >
+                              Capacity (volume): 72.0 Oz.
+                    </li>
+                    <li
+                              className="highlights-list-item"
+                    >
+                              Appliance Capabilities: Blends
+                    </li>
+                    <li
+                              className="highlights-list-item"
+                    >
+                              Includes: Travel Lid
+                    </li>
+                    <li
+                              className="highlights-list-item"
+                    >
+                              Material: Plastic
+                    </li>
+                    <li
+                              className="highlights-list-item"
+                    >
+                              Finish: Painted
+                    </li>
+                    <li
+                              className="highlights-list-item"
+                    >
+                              Metal Finish: Chrome
+                    </li>
+                    <li
+                              className="highlights-list-item"
+                    >
+                              Safety and Security Features: Non-Slip Base
+                    </li>
+                    <li
+                              className="highlights-list-item"
+                    >
+                              Care and Cleaning: Easy-To-Clean, Dishwasher Safe Parts
+                    </li>
+          </ul>
+</Col>,
+        "componentClass": "div",
+      },
+      "ref": null,
+      "rendered": Object {
+        "instance": null,
+        "key": undefined,
+        "nodeType": "class",
+        "props": Object {
+          "bsClass": "col",
+          "children": Array [
+            <p
+              className="highlights-heading"
+>
+              product highlights
+</p>,
+            <ul
+              className="highlights-list"
+>
+              <li
+                            className="highlights-list-item"
+              >
+                            Wattage Output: 1100 Watts
+              </li>
+              <li
+                            className="highlights-list-item"
+              >
+                            Number of Speeds: 3
+              </li>
+              <li
+                            className="highlights-list-item"
+              >
+                            Capacity (volume): 72.0 Oz.
+              </li>
+              <li
+                            className="highlights-list-item"
+              >
+                            Appliance Capabilities: Blends
+              </li>
+              <li
+                            className="highlights-list-item"
+              >
+                            Includes: Travel Lid
+              </li>
+              <li
+                            className="highlights-list-item"
+              >
+                            Material: Plastic
+              </li>
+              <li
+                            className="highlights-list-item"
+              >
+                            Finish: Painted
+              </li>
+              <li
+                            className="highlights-list-item"
+              >
+                            Metal Finish: Chrome
+              </li>
+              <li
+                            className="highlights-list-item"
+              >
+                            Safety and Security Features: Non-Slip Base
+              </li>
+              <li
+                            className="highlights-list-item"
+              >
+                            Care and Cleaning: Easy-To-Clean, Dishwasher Safe Parts
+              </li>
+</ul>,
+          ],
+          "componentClass": "div",
+          "xs": 12,
+        },
+        "ref": null,
+        "rendered": Array [
+          Object {
+            "instance": null,
+            "key": undefined,
+            "nodeType": "host",
+            "props": Object {
+              "children": "product highlights",
+              "className": "highlights-heading",
+            },
+            "ref": null,
+            "rendered": "product highlights",
+            "type": "p",
+          },
+          Object {
+            "instance": null,
+            "key": undefined,
+            "nodeType": "host",
+            "props": Object {
+              "children": Array [
+                <li
+                  className="highlights-list-item"
+>
+                  Wattage Output: 1100 Watts
+</li>,
+                <li
+                  className="highlights-list-item"
+>
+                  Number of Speeds: 3
+</li>,
+                <li
+                  className="highlights-list-item"
+>
+                  Capacity (volume): 72.0 Oz.
+</li>,
+                <li
+                  className="highlights-list-item"
+>
+                  Appliance Capabilities: Blends
+</li>,
+                <li
+                  className="highlights-list-item"
+>
+                  Includes: Travel Lid
+</li>,
+                <li
+                  className="highlights-list-item"
+>
+                  Material: Plastic
+</li>,
+                <li
+                  className="highlights-list-item"
+>
+                  Finish: Painted
+</li>,
+                <li
+                  className="highlights-list-item"
+>
+                  Metal Finish: Chrome
+</li>,
+                <li
+                  className="highlights-list-item"
+>
+                  Safety and Security Features: Non-Slip Base
+</li>,
+                <li
+                  className="highlights-list-item"
+>
+                  Care and Cleaning: Easy-To-Clean, Dishwasher Safe Parts
+</li>,
+              ],
+              "className": "highlights-list",
+            },
+            "ref": null,
+            "rendered": Array [
+              Object {
+                "instance": null,
+                "key": undefined,
+                "nodeType": "host",
+                "props": Object {
+                  "children": "Wattage Output: 1100 Watts",
+                  "className": "highlights-list-item",
+                },
+                "ref": null,
+                "rendered": "Wattage Output: 1100 Watts",
+                "type": "li",
+              },
+              Object {
+                "instance": null,
+                "key": undefined,
+                "nodeType": "host",
+                "props": Object {
+                  "children": "Number of Speeds: 3",
+                  "className": "highlights-list-item",
+                },
+                "ref": null,
+                "rendered": "Number of Speeds: 3",
+                "type": "li",
+              },
+              Object {
+                "instance": null,
+                "key": undefined,
+                "nodeType": "host",
+                "props": Object {
+                  "children": "Capacity (volume): 72.0 Oz.",
+                  "className": "highlights-list-item",
+                },
+                "ref": null,
+                "rendered": "Capacity (volume): 72.0 Oz.",
+                "type": "li",
+              },
+              Object {
+                "instance": null,
+                "key": undefined,
+                "nodeType": "host",
+                "props": Object {
+                  "children": "Appliance Capabilities: Blends",
+                  "className": "highlights-list-item",
+                },
+                "ref": null,
+                "rendered": "Appliance Capabilities: Blends",
+                "type": "li",
+              },
+              Object {
+                "instance": null,
+                "key": undefined,
+                "nodeType": "host",
+                "props": Object {
+                  "children": "Includes: Travel Lid",
+                  "className": "highlights-list-item",
+                },
+                "ref": null,
+                "rendered": "Includes: Travel Lid",
+                "type": "li",
+              },
+              Object {
+                "instance": null,
+                "key": undefined,
+                "nodeType": "host",
+                "props": Object {
+                  "children": "Material: Plastic",
+                  "className": "highlights-list-item",
+                },
+                "ref": null,
+                "rendered": "Material: Plastic",
+                "type": "li",
+              },
+              Object {
+                "instance": null,
+                "key": undefined,
+                "nodeType": "host",
+                "props": Object {
+                  "children": "Finish: Painted",
+                  "className": "highlights-list-item",
+                },
+                "ref": null,
+                "rendered": "Finish: Painted",
+                "type": "li",
+              },
+              Object {
+                "instance": null,
+                "key": undefined,
+                "nodeType": "host",
+                "props": Object {
+                  "children": "Metal Finish: Chrome",
+                  "className": "highlights-list-item",
+                },
+                "ref": null,
+                "rendered": "Metal Finish: Chrome",
+                "type": "li",
+              },
+              Object {
+                "instance": null,
+                "key": undefined,
+                "nodeType": "host",
+                "props": Object {
+                  "children": "Safety and Security Features: Non-Slip Base",
+                  "className": "highlights-list-item",
+                },
+                "ref": null,
+                "rendered": "Safety and Security Features: Non-Slip Base",
+                "type": "li",
+              },
+              Object {
+                "instance": null,
+                "key": undefined,
+                "nodeType": "host",
+                "props": Object {
+                  "children": "Care and Cleaning: Easy-To-Clean, Dishwasher Safe Parts",
+                  "className": "highlights-list-item",
+                },
+                "ref": null,
+                "rendered": "Care and Cleaning: Easy-To-Clean, Dishwasher Safe Parts",
+                "type": "li",
+              },
+            ],
+            "type": "ul",
+          },
+        ],
+        "type": [Function],
+      },
+      "type": [Function],
+    },
+    "type": "div",
+  },
+  Symbol(enzyme.__nodes__): Array [
+    Object {
+      "instance": null,
+      "key": undefined,
+      "nodeType": "host",
+      "props": Object {
+        "children": <Row
+          bsClass="row"
+          componentClass="div"
+>
+          <Col
+                    bsClass="col"
+                    componentClass="div"
+                    xs={12}
+          >
+                    <p
+                              className="highlights-heading"
+                    >
+                              product highlights
+                    </p>
+                    <ul
+                              className="highlights-list"
+                    >
+                              <li
+                                        className="highlights-list-item"
+                              >
+                                        Wattage Output: 1100 Watts
+                              </li>
+                              <li
+                                        className="highlights-list-item"
+                              >
+                                        Number of Speeds: 3
+                              </li>
+                              <li
+                                        className="highlights-list-item"
+                              >
+                                        Capacity (volume): 72.0 Oz.
+                              </li>
+                              <li
+                                        className="highlights-list-item"
+                              >
+                                        Appliance Capabilities: Blends
+                              </li>
+                              <li
+                                        className="highlights-list-item"
+                              >
+                                        Includes: Travel Lid
+                              </li>
+                              <li
+                                        className="highlights-list-item"
+                              >
+                                        Material: Plastic
+                              </li>
+                              <li
+                                        className="highlights-list-item"
+                              >
+                                        Finish: Painted
+                              </li>
+                              <li
+                                        className="highlights-list-item"
+                              >
+                                        Metal Finish: Chrome
+                              </li>
+                              <li
+                                        className="highlights-list-item"
+                              >
+                                        Safety and Security Features: Non-Slip Base
+                              </li>
+                              <li
+                                        className="highlights-list-item"
+                              >
+                                        Care and Cleaning: Easy-To-Clean, Dishwasher Safe Parts
+                              </li>
+                    </ul>
+          </Col>
+</Row>,
+        "className": "highlights-container",
+      },
+      "ref": null,
+      "rendered": Object {
+        "instance": null,
+        "key": undefined,
+        "nodeType": "class",
+        "props": Object {
+          "bsClass": "row",
+          "children": <Col
+            bsClass="col"
+            componentClass="div"
+            xs={12}
+>
+            <p
+                        className="highlights-heading"
+            >
+                        product highlights
+            </p>
+            <ul
+                        className="highlights-list"
+            >
+                        <li
+                                    className="highlights-list-item"
+                        >
+                                    Wattage Output: 1100 Watts
+                        </li>
+                        <li
+                                    className="highlights-list-item"
+                        >
+                                    Number of Speeds: 3
+                        </li>
+                        <li
+                                    className="highlights-list-item"
+                        >
+                                    Capacity (volume): 72.0 Oz.
+                        </li>
+                        <li
+                                    className="highlights-list-item"
+                        >
+                                    Appliance Capabilities: Blends
+                        </li>
+                        <li
+                                    className="highlights-list-item"
+                        >
+                                    Includes: Travel Lid
+                        </li>
+                        <li
+                                    className="highlights-list-item"
+                        >
+                                    Material: Plastic
+                        </li>
+                        <li
+                                    className="highlights-list-item"
+                        >
+                                    Finish: Painted
+                        </li>
+                        <li
+                                    className="highlights-list-item"
+                        >
+                                    Metal Finish: Chrome
+                        </li>
+                        <li
+                                    className="highlights-list-item"
+                        >
+                                    Safety and Security Features: Non-Slip Base
+                        </li>
+                        <li
+                                    className="highlights-list-item"
+                        >
+                                    Care and Cleaning: Easy-To-Clean, Dishwasher Safe Parts
+                        </li>
+            </ul>
+</Col>,
+          "componentClass": "div",
+        },
+        "ref": null,
+        "rendered": Object {
+          "instance": null,
+          "key": undefined,
+          "nodeType": "class",
+          "props": Object {
+            "bsClass": "col",
+            "children": Array [
+              <p
+                className="highlights-heading"
+>
+                product highlights
+</p>,
+              <ul
+                className="highlights-list"
+>
+                <li
+                                className="highlights-list-item"
+                >
+                                Wattage Output: 1100 Watts
+                </li>
+                <li
+                                className="highlights-list-item"
+                >
+                                Number of Speeds: 3
+                </li>
+                <li
+                                className="highlights-list-item"
+                >
+                                Capacity (volume): 72.0 Oz.
+                </li>
+                <li
+                                className="highlights-list-item"
+                >
+                                Appliance Capabilities: Blends
+                </li>
+                <li
+                                className="highlights-list-item"
+                >
+                                Includes: Travel Lid
+                </li>
+                <li
+                                className="highlights-list-item"
+                >
+                                Material: Plastic
+                </li>
+                <li
+                                className="highlights-list-item"
+                >
+                                Finish: Painted
+                </li>
+                <li
+                                className="highlights-list-item"
+                >
+                                Metal Finish: Chrome
+                </li>
+                <li
+                                className="highlights-list-item"
+                >
+                                Safety and Security Features: Non-Slip Base
+                </li>
+                <li
+                                className="highlights-list-item"
+                >
+                                Care and Cleaning: Easy-To-Clean, Dishwasher Safe Parts
+                </li>
+</ul>,
+            ],
+            "componentClass": "div",
+            "xs": 12,
+          },
+          "ref": null,
+          "rendered": Array [
+            Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "host",
+              "props": Object {
+                "children": "product highlights",
+                "className": "highlights-heading",
+              },
+              "ref": null,
+              "rendered": "product highlights",
+              "type": "p",
+            },
+            Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "host",
+              "props": Object {
+                "children": Array [
+                  <li
+                    className="highlights-list-item"
+>
+                    Wattage Output: 1100 Watts
+</li>,
+                  <li
+                    className="highlights-list-item"
+>
+                    Number of Speeds: 3
+</li>,
+                  <li
+                    className="highlights-list-item"
+>
+                    Capacity (volume): 72.0 Oz.
+</li>,
+                  <li
+                    className="highlights-list-item"
+>
+                    Appliance Capabilities: Blends
+</li>,
+                  <li
+                    className="highlights-list-item"
+>
+                    Includes: Travel Lid
+</li>,
+                  <li
+                    className="highlights-list-item"
+>
+                    Material: Plastic
+</li>,
+                  <li
+                    className="highlights-list-item"
+>
+                    Finish: Painted
+</li>,
+                  <li
+                    className="highlights-list-item"
+>
+                    Metal Finish: Chrome
+</li>,
+                  <li
+                    className="highlights-list-item"
+>
+                    Safety and Security Features: Non-Slip Base
+</li>,
+                  <li
+                    className="highlights-list-item"
+>
+                    Care and Cleaning: Easy-To-Clean, Dishwasher Safe Parts
+</li>,
+                ],
+                "className": "highlights-list",
+              },
+              "ref": null,
+              "rendered": Array [
+                Object {
+                  "instance": null,
+                  "key": undefined,
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": "Wattage Output: 1100 Watts",
+                    "className": "highlights-list-item",
+                  },
+                  "ref": null,
+                  "rendered": "Wattage Output: 1100 Watts",
+                  "type": "li",
+                },
+                Object {
+                  "instance": null,
+                  "key": undefined,
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": "Number of Speeds: 3",
+                    "className": "highlights-list-item",
+                  },
+                  "ref": null,
+                  "rendered": "Number of Speeds: 3",
+                  "type": "li",
+                },
+                Object {
+                  "instance": null,
+                  "key": undefined,
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": "Capacity (volume): 72.0 Oz.",
+                    "className": "highlights-list-item",
+                  },
+                  "ref": null,
+                  "rendered": "Capacity (volume): 72.0 Oz.",
+                  "type": "li",
+                },
+                Object {
+                  "instance": null,
+                  "key": undefined,
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": "Appliance Capabilities: Blends",
+                    "className": "highlights-list-item",
+                  },
+                  "ref": null,
+                  "rendered": "Appliance Capabilities: Blends",
+                  "type": "li",
+                },
+                Object {
+                  "instance": null,
+                  "key": undefined,
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": "Includes: Travel Lid",
+                    "className": "highlights-list-item",
+                  },
+                  "ref": null,
+                  "rendered": "Includes: Travel Lid",
+                  "type": "li",
+                },
+                Object {
+                  "instance": null,
+                  "key": undefined,
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": "Material: Plastic",
+                    "className": "highlights-list-item",
+                  },
+                  "ref": null,
+                  "rendered": "Material: Plastic",
+                  "type": "li",
+                },
+                Object {
+                  "instance": null,
+                  "key": undefined,
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": "Finish: Painted",
+                    "className": "highlights-list-item",
+                  },
+                  "ref": null,
+                  "rendered": "Finish: Painted",
+                  "type": "li",
+                },
+                Object {
+                  "instance": null,
+                  "key": undefined,
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": "Metal Finish: Chrome",
+                    "className": "highlights-list-item",
+                  },
+                  "ref": null,
+                  "rendered": "Metal Finish: Chrome",
+                  "type": "li",
+                },
+                Object {
+                  "instance": null,
+                  "key": undefined,
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": "Safety and Security Features: Non-Slip Base",
+                    "className": "highlights-list-item",
+                  },
+                  "ref": null,
+                  "rendered": "Safety and Security Features: Non-Slip Base",
+                  "type": "li",
+                },
+                Object {
+                  "instance": null,
+                  "key": undefined,
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": "Care and Cleaning: Easy-To-Clean, Dishwasher Safe Parts",
+                    "className": "highlights-list-item",
+                  },
+                  "ref": null,
+                  "rendered": "Care and Cleaning: Easy-To-Clean, Dishwasher Safe Parts",
+                  "type": "li",
+                },
+              ],
+              "type": "ul",
+            },
+          ],
+          "type": [Function],
+        },
+        "type": [Function],
+      },
+      "type": "div",
+    },
+  ],
+  Symbol(enzyme.__options__): Object {
+    "adapter": ReactSixteenAdapter {
+      "options": Object {
+        "enableComponentDidUpdateOnSetState": true,
+      },
+    },
+  },
+}
+`;

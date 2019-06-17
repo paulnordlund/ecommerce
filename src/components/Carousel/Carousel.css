@@ -1,0 +1,24 @@
+.carousel-container {
+    margin-bottom: 4em !important;
+}
+
+.main-item-detail-header {
+    font-size: 1.5em;
+    font-weight: 100;
+    text-align: center;
+}
+
+.carousel-section {
+    margin: 0 auto !important;
+}
+
+.carousel-image {
+    width: 70% !important;
+    margin: 0 auto !important;
+    padding: 0 1.5em;
+}
+
+.carousel-thumbs {
+    padding-top: 2em;
+    width: 100%;
+}

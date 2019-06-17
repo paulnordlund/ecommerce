@@ -1,0 +1,157 @@
+.actions-container {
+  background: $white;
+  padding: 1em;
+  color: $dark;
+  overflow-y: auto;
+  overflow-x: hidden;
+}
+
+.item-price {
+  font-size: 1.7em;
+  font-weight: bold;
+  margin: 0 !important;
+}
+
+.item-price-description {
+  color: $lightgrey;
+  font-size: 0.5em;
+  font-weight: normal !important;
+}
+
+.promotion-01 {
+  color: $gold;
+  font-size: 1.1em;
+  padding-top: 1em;
+  border-top: 1px solid $lightgrey !important;
+  margin: 1em 0 0 0 !important;
+}
+
+.promotion-02 {
+  color: $gold;
+  font-size: 1.1em;
+  padding-bottom: 1em;
+  border-bottom: 1px solid $lightgrey !important;
+  margin: 0 0 1.5em 0 !important;
+}
+
+.pricetag {
+  color: $gold;
+  -moz-transform: scaleX(-1);
+  -o-transform: scaleX(-1);
+  -webkit-transform: scaleX(-1);
+  transform: scaleX(-1);
+}
+
+.quantity-section {
+  margin: 0 0 1.5em 0;
+}
+
+.quantity-label {
+  padding-left: 0 !important;
+}
+
+.quantity-input {
+  line-height: 2em !important;
+  width: 100% !important;
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+}
+
+.quantity-input > b {
+  border-radius: 2em !important;
+}
+
+.quantity-input-container {
+  margin-left: 1em !important;
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+}
+
+.action-buttons {
+  margin: 0 0 1em 0 !important;
+  padding: 0 !important;
+}
+
+.action-button-text {
+  font-size: 1.1em;
+  font-weight: 100 !important;
+  color: $white;
+  text-shadow: none !important;
+}
+
+.alt-action-button-text {
+  font-size: 0.8em;
+  color: $grey;
+  text-shadow: none !important;
+}
+
+.action-button-pick-up-in-store {
+  background: linear-gradient(
+    to bottom,
+    #666 0%,
+    #444 15%,
+    #222 30%,
+    $dark 100%
+  ) !important;
+  color: $white !important;
+  border: 1px solid $dark !important;
+  border-radius: 2px !important;
+  margin-left: 1em !important;
+  padding-right: 1em !important;
+}
+
+.in-store-description {
+  font-size: 0.7em;
+  font-weight: bold;
+  color: $grey;
+  margin: 1% 40% !important;
+  width: 10em;
+}
+
+.action-button-add-to-cart {
+  background: linear-gradient(
+    to bottom,
+    #FFCF40 0%,
+    #FFBF00 20%,
+    $gold 50%,
+    #A67C00 100%
+  ) !important;
+  border: 1px solid $gold !important;
+  border-radius: 2px !important;
+  color: $white !important;
+  margin-left: 1.5em !important;
+  padding-right: 2em !important;
+}
+
+.returns-section {
+  margin-bottom: 1em;
+}
+
+.border-right {
+  border-right: 1px solid $lightgrey;
+}
+
+.returns-title {
+  color: $lightgrey;
+  font-size: 1.2em;
+}
+
+.returns-description {
+  color: $lightgrey;
+  font-size: 0.6em;
+}
+
+.alt-action-buttons {
+  padding-right: 0.3em !important;
+}
+
+.alt-action-button {
+  font-size: 0.2em;
+  background: $lightestgrey !important;
+  border: none !important;
+  border-radius: 1px !important;
+}
+
+.alt-action-button-text {
+  color: $lightgrey;
+}

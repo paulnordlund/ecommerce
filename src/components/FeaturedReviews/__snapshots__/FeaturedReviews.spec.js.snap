@@ -1,0 +1,2675 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`FeaturedReviews renders 1`] = `
+ShallowWrapper {
+  "length": 1,
+  Symbol(enzyme.__root__): [Circular],
+  Symbol(enzyme.__unrendered__): <Unknown />,
+  Symbol(enzyme.__renderer__): Object {
+    "batchedUpdates": [Function],
+    "getNode": [Function],
+    "render": [Function],
+    "simulateEvent": [Function],
+    "unmount": [Function],
+  },
+  Symbol(enzyme.__node__): Object {
+    "instance": null,
+    "key": undefined,
+    "nodeType": "host",
+    "props": Object {
+      "children": Array [
+        <Row
+          bsClass="row"
+          componentClass="div"
+>
+          <Col
+                    bsClass="col"
+                    className="featured-reviews-header"
+                    componentClass="div"
+                    xs={6}
+          >
+                    <span
+                              className="featured-review-ranking-md"
+                    >
+                              <FaStar
+                                        className="filled-star-md"
+                              />
+                              <FaStar
+                                        className="filled-star-md"
+                              />
+                              <FaStar
+                                        className="filled-star-md"
+                              />
+                              <FaStar
+                                        className="filled-star-md"
+                              />
+                              <FaStar
+                                        className="filled-star-md"
+                              />
+                    </span>
+                    <span
+                              className="overall-review-ranking"
+                    >
+                              overall
+                    </span>
+          </Col>
+          <Col
+                    bsClass="col"
+                    className="all-reviews"
+                    componentClass="div"
+                    xs={6}
+          >
+                    <Link
+                              className="all-reviews-link"
+                              replace={false}
+                              to="/reviews"
+                    >
+                              <span
+                                        className="all-reviews-span"
+                              >
+                                        view all 14 reviews
+                              </span>
+                    </Link>
+          </Col>
+</Row>,
+        <Well
+          bsClass="well"
+          className="well"
+>
+          <Row
+                    bsClass="row"
+                    className="featured-reviews-well-header"
+                    componentClass="div"
+          >
+                    <Col
+                              bsClass="col"
+                              className="featured-postive-review"
+                              componentClass="div"
+                              xs={6}
+                    >
+                              <p
+                                        className="featured-review-heading"
+                              >
+                                        PRO
+                              </p>
+                              <p
+                                        className="featured-review-category"
+                              >
+                                        most helpful 4-5 star review
+                              </p>
+                    </Col>
+                    <Col
+                              bsClass="col"
+                              className="featured-negative-review"
+                              componentClass="div"
+                              xs={6}
+                    >
+                              <p
+                                        className="featured-review-heading"
+                              >
+                                        CON
+                              </p>
+                              <p
+                                        className="featured-review-category"
+                              >
+                                        most helpful 1-2 star review
+                              </p>
+                    </Col>
+          </Row>
+          <Row
+                    bsClass="row"
+                    componentClass="div"
+          >
+                    <Col
+                              bsClass="col"
+                              className="featured-reviews-details"
+                              componentClass="div"
+                              xs={6}
+                    >
+                              <span
+                                        className="featured-review-ranking-xs"
+                              >
+                                        <FaStar
+                                                  className="filled-star-xs"
+                                        />
+                                        <FaStar
+                                                  className="filled-star-xs"
+                                        />
+                                        <FaStar
+                                                  className="filled-star-xs"
+                                        />
+                                        <FaStar
+                                                  className="filled-star-xs"
+                                        />
+                                        <FaStar
+                                                  className="filled-star-xs"
+                                        />
+                              </span>
+                              <h5
+                                        className="featured-review-title"
+                              >
+                                        Fantastic Blender
+                              </h5>
+                              <p
+                                        className="featured-review-summary"
+                              >
+                                        This blender works amazingly, and blends within seconds. The single serve cups also work really well for smoothies or protein shakes!
+                              </p>
+                              <p>
+                                        <span
+                                                  className="featured-review-username"
+                                        >
+                                                  Eric
+                                        </span>
+                                         
+                                        <span
+                                                  className="review-date"
+                                        >
+                                                  April 18, 2013
+                                        </span>
+                              </p>
+                    </Col>
+                    <Col
+                              bsClass="col"
+                              className="featured-reviews-details"
+                              componentClass="div"
+                              xs={6}
+                    >
+                              <span
+                                        className="featured-review-ranking-xs"
+                              >
+                                        <FaStar
+                                                  className="filled-star-xs"
+                                        />
+                                        <FaStar
+                                                  className="empty-star-xs"
+                                        />
+                                        <FaStar
+                                                  className="empty-star-xs"
+                                        />
+                                        <FaStar
+                                                  className="empty-star-xs"
+                                        />
+                                        <FaStar
+                                                  className="empty-star-xs"
+                                        />
+                              </span>
+                              <h5
+                                        className="featured-review-title"
+                              >
+                                        Very unhappy
+                              </h5>
+                              <p
+                                        className="featured-review-summary"
+                              >
+                                        Less than 2 months after purchase it completely stopped working. First it wouldn't detect the pitcher when trying to blend a significant amount, a couple weeks later it wouldn't detect the single serve cup.
+                              </p>
+                              <p>
+                                        <span
+                                                  className="featured-review-username"
+                                        >
+                                                  New York
+                                        </span>
+                                          
+                                        <span
+                                                  className="review-date"
+                                        >
+                                                  March 11, 2013
+                                        </span>
+                              </p>
+                    </Col>
+          </Row>
+</Well>,
+      ],
+      "className": "featured-reviews-container",
+    },
+    "ref": null,
+    "rendered": Array [
+      Object {
+        "instance": null,
+        "key": undefined,
+        "nodeType": "class",
+        "props": Object {
+          "bsClass": "row",
+          "children": Array [
+            <Col
+              bsClass="col"
+              className="featured-reviews-header"
+              componentClass="div"
+              xs={6}
+>
+              <span
+                            className="featured-review-ranking-md"
+              >
+                            <FaStar
+                                          className="filled-star-md"
+                            />
+                            <FaStar
+                                          className="filled-star-md"
+                            />
+                            <FaStar
+                                          className="filled-star-md"
+                            />
+                            <FaStar
+                                          className="filled-star-md"
+                            />
+                            <FaStar
+                                          className="filled-star-md"
+                            />
+              </span>
+              <span
+                            className="overall-review-ranking"
+              >
+                            overall
+              </span>
+</Col>,
+            <Col
+              bsClass="col"
+              className="all-reviews"
+              componentClass="div"
+              xs={6}
+>
+              <Link
+                            className="all-reviews-link"
+                            replace={false}
+                            to="/reviews"
+              >
+                            <span
+                                          className="all-reviews-span"
+                            >
+                                          view all 14 reviews
+                            </span>
+              </Link>
+</Col>,
+          ],
+          "componentClass": "div",
+        },
+        "ref": null,
+        "rendered": Array [
+          Object {
+            "instance": null,
+            "key": undefined,
+            "nodeType": "class",
+            "props": Object {
+              "bsClass": "col",
+              "children": Array [
+                <span
+                  className="featured-review-ranking-md"
+>
+                  <FaStar
+                                    className="filled-star-md"
+                  />
+                  <FaStar
+                                    className="filled-star-md"
+                  />
+                  <FaStar
+                                    className="filled-star-md"
+                  />
+                  <FaStar
+                                    className="filled-star-md"
+                  />
+                  <FaStar
+                                    className="filled-star-md"
+                  />
+</span>,
+                <span
+                  className="overall-review-ranking"
+>
+                  overall
+</span>,
+              ],
+              "className": "featured-reviews-header",
+              "componentClass": "div",
+              "xs": 6,
+            },
+            "ref": null,
+            "rendered": Array [
+              Object {
+                "instance": null,
+                "key": undefined,
+                "nodeType": "host",
+                "props": Object {
+                  "children": Array [
+                    <FaStar
+                      className="filled-star-md"
+/>,
+                    <FaStar
+                      className="filled-star-md"
+/>,
+                    <FaStar
+                      className="filled-star-md"
+/>,
+                    <FaStar
+                      className="filled-star-md"
+/>,
+                    <FaStar
+                      className="filled-star-md"
+/>,
+                  ],
+                  "className": "featured-review-ranking-md",
+                },
+                "ref": null,
+                "rendered": Array [
+                  Object {
+                    "instance": null,
+                    "key": undefined,
+                    "nodeType": "function",
+                    "props": Object {
+                      "className": "filled-star-md",
+                    },
+                    "ref": null,
+                    "rendered": null,
+                    "type": [Function],
+                  },
+                  Object {
+                    "instance": null,
+                    "key": undefined,
+                    "nodeType": "function",
+                    "props": Object {
+                      "className": "filled-star-md",
+                    },
+                    "ref": null,
+                    "rendered": null,
+                    "type": [Function],
+                  },
+                  Object {
+                    "instance": null,
+                    "key": undefined,
+                    "nodeType": "function",
+                    "props": Object {
+                      "className": "filled-star-md",
+                    },
+                    "ref": null,
+                    "rendered": null,
+                    "type": [Function],
+                  },
+                  Object {
+                    "instance": null,
+                    "key": undefined,
+                    "nodeType": "function",
+                    "props": Object {
+                      "className": "filled-star-md",
+                    },
+                    "ref": null,
+                    "rendered": null,
+                    "type": [Function],
+                  },
+                  Object {
+                    "instance": null,
+                    "key": undefined,
+                    "nodeType": "function",
+                    "props": Object {
+                      "className": "filled-star-md",
+                    },
+                    "ref": null,
+                    "rendered": null,
+                    "type": [Function],
+                  },
+                ],
+                "type": "span",
+              },
+              Object {
+                "instance": null,
+                "key": undefined,
+                "nodeType": "host",
+                "props": Object {
+                  "children": "overall",
+                  "className": "overall-review-ranking",
+                },
+                "ref": null,
+                "rendered": "overall",
+                "type": "span",
+              },
+            ],
+            "type": [Function],
+          },
+          Object {
+            "instance": null,
+            "key": undefined,
+            "nodeType": "class",
+            "props": Object {
+              "bsClass": "col",
+              "children": <Link
+                className="all-reviews-link"
+                replace={false}
+                to="/reviews"
+>
+                <span
+                                className="all-reviews-span"
+                >
+                                view all 14 reviews
+                </span>
+</Link>,
+              "className": "all-reviews",
+              "componentClass": "div",
+              "xs": 6,
+            },
+            "ref": null,
+            "rendered": Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "class",
+              "props": Object {
+                "children": <span
+                  className="all-reviews-span"
+>
+                  view all 14 reviews
+</span>,
+                "className": "all-reviews-link",
+                "replace": false,
+                "to": "/reviews",
+              },
+              "ref": null,
+              "rendered": Object {
+                "instance": null,
+                "key": undefined,
+                "nodeType": "host",
+                "props": Object {
+                  "children": "view all 14 reviews",
+                  "className": "all-reviews-span",
+                },
+                "ref": null,
+                "rendered": "view all 14 reviews",
+                "type": "span",
+              },
+              "type": [Function],
+            },
+            "type": [Function],
+          },
+        ],
+        "type": [Function],
+      },
+      Object {
+        "instance": null,
+        "key": undefined,
+        "nodeType": "class",
+        "props": Object {
+          "bsClass": "well",
+          "children": Array [
+            <Row
+              bsClass="row"
+              className="featured-reviews-well-header"
+              componentClass="div"
+>
+              <Col
+                            bsClass="col"
+                            className="featured-postive-review"
+                            componentClass="div"
+                            xs={6}
+              >
+                            <p
+                                          className="featured-review-heading"
+                            >
+                                          PRO
+                            </p>
+                            <p
+                                          className="featured-review-category"
+                            >
+                                          most helpful 4-5 star review
+                            </p>
+              </Col>
+              <Col
+                            bsClass="col"
+                            className="featured-negative-review"
+                            componentClass="div"
+                            xs={6}
+              >
+                            <p
+                                          className="featured-review-heading"
+                            >
+                                          CON
+                            </p>
+                            <p
+                                          className="featured-review-category"
+                            >
+                                          most helpful 1-2 star review
+                            </p>
+              </Col>
+</Row>,
+            <Row
+              bsClass="row"
+              componentClass="div"
+>
+              <Col
+                            bsClass="col"
+                            className="featured-reviews-details"
+                            componentClass="div"
+                            xs={6}
+              >
+                            <span
+                                          className="featured-review-ranking-xs"
+                            >
+                                          <FaStar
+                                                        className="filled-star-xs"
+                                          />
+                                          <FaStar
+                                                        className="filled-star-xs"
+                                          />
+                                          <FaStar
+                                                        className="filled-star-xs"
+                                          />
+                                          <FaStar
+                                                        className="filled-star-xs"
+                                          />
+                                          <FaStar
+                                                        className="filled-star-xs"
+                                          />
+                            </span>
+                            <h5
+                                          className="featured-review-title"
+                            >
+                                          Fantastic Blender
+                            </h5>
+                            <p
+                                          className="featured-review-summary"
+                            >
+                                          This blender works amazingly, and blends within seconds. The single serve cups also work really well for smoothies or protein shakes!
+                            </p>
+                            <p>
+                                          <span
+                                                        className="featured-review-username"
+                                          >
+                                                        Eric
+                                          </span>
+                                           
+                                          <span
+                                                        className="review-date"
+                                          >
+                                                        April 18, 2013
+                                          </span>
+                            </p>
+              </Col>
+              <Col
+                            bsClass="col"
+                            className="featured-reviews-details"
+                            componentClass="div"
+                            xs={6}
+              >
+                            <span
+                                          className="featured-review-ranking-xs"
+                            >
+                                          <FaStar
+                                                        className="filled-star-xs"
+                                          />
+                                          <FaStar
+                                                        className="empty-star-xs"
+                                          />
+                                          <FaStar
+                                                        className="empty-star-xs"
+                                          />
+                                          <FaStar
+                                                        className="empty-star-xs"
+                                          />
+                                          <FaStar
+                                                        className="empty-star-xs"
+                                          />
+                            </span>
+                            <h5
+                                          className="featured-review-title"
+                            >
+                                          Very unhappy
+                            </h5>
+                            <p
+                                          className="featured-review-summary"
+                            >
+                                          Less than 2 months after purchase it completely stopped working. First it wouldn't detect the pitcher when trying to blend a significant amount, a couple weeks later it wouldn't detect the single serve cup.
+                            </p>
+                            <p>
+                                          <span
+                                                        className="featured-review-username"
+                                          >
+                                                        New York
+                                          </span>
+                                            
+                                          <span
+                                                        className="review-date"
+                                          >
+                                                        March 11, 2013
+                                          </span>
+                            </p>
+              </Col>
+</Row>,
+          ],
+          "className": "well",
+        },
+        "ref": null,
+        "rendered": Array [
+          Object {
+            "instance": null,
+            "key": undefined,
+            "nodeType": "class",
+            "props": Object {
+              "bsClass": "row",
+              "children": Array [
+                <Col
+                  bsClass="col"
+                  className="featured-postive-review"
+                  componentClass="div"
+                  xs={6}
+>
+                  <p
+                                    className="featured-review-heading"
+                  >
+                                    PRO
+                  </p>
+                  <p
+                                    className="featured-review-category"
+                  >
+                                    most helpful 4-5 star review
+                  </p>
+</Col>,
+                <Col
+                  bsClass="col"
+                  className="featured-negative-review"
+                  componentClass="div"
+                  xs={6}
+>
+                  <p
+                                    className="featured-review-heading"
+                  >
+                                    CON
+                  </p>
+                  <p
+                                    className="featured-review-category"
+                  >
+                                    most helpful 1-2 star review
+                  </p>
+</Col>,
+              ],
+              "className": "featured-reviews-well-header",
+              "componentClass": "div",
+            },
+            "ref": null,
+            "rendered": Array [
+              Object {
+                "instance": null,
+                "key": undefined,
+                "nodeType": "class",
+                "props": Object {
+                  "bsClass": "col",
+                  "children": Array [
+                    <p
+                      className="featured-review-heading"
+>
+                      PRO
+</p>,
+                    <p
+                      className="featured-review-category"
+>
+                      most helpful 4-5 star review
+</p>,
+                  ],
+                  "className": "featured-postive-review",
+                  "componentClass": "div",
+                  "xs": 6,
+                },
+                "ref": null,
+                "rendered": Array [
+                  Object {
+                    "instance": null,
+                    "key": undefined,
+                    "nodeType": "host",
+                    "props": Object {
+                      "children": "PRO",
+                      "className": "featured-review-heading",
+                    },
+                    "ref": null,
+                    "rendered": "PRO",
+                    "type": "p",
+                  },
+                  Object {
+                    "instance": null,
+                    "key": undefined,
+                    "nodeType": "host",
+                    "props": Object {
+                      "children": "most helpful 4-5 star review",
+                      "className": "featured-review-category",
+                    },
+                    "ref": null,
+                    "rendered": "most helpful 4-5 star review",
+                    "type": "p",
+                  },
+                ],
+                "type": [Function],
+              },
+              Object {
+                "instance": null,
+                "key": undefined,
+                "nodeType": "class",
+                "props": Object {
+                  "bsClass": "col",
+                  "children": Array [
+                    <p
+                      className="featured-review-heading"
+>
+                      CON
+</p>,
+                    <p
+                      className="featured-review-category"
+>
+                      most helpful 1-2 star review
+</p>,
+                  ],
+                  "className": "featured-negative-review",
+                  "componentClass": "div",
+                  "xs": 6,
+                },
+                "ref": null,
+                "rendered": Array [
+                  Object {
+                    "instance": null,
+                    "key": undefined,
+                    "nodeType": "host",
+                    "props": Object {
+                      "children": "CON",
+                      "className": "featured-review-heading",
+                    },
+                    "ref": null,
+                    "rendered": "CON",
+                    "type": "p",
+                  },
+                  Object {
+                    "instance": null,
+                    "key": undefined,
+                    "nodeType": "host",
+                    "props": Object {
+                      "children": "most helpful 1-2 star review",
+                      "className": "featured-review-category",
+                    },
+                    "ref": null,
+                    "rendered": "most helpful 1-2 star review",
+                    "type": "p",
+                  },
+                ],
+                "type": [Function],
+              },
+            ],
+            "type": [Function],
+          },
+          Object {
+            "instance": null,
+            "key": undefined,
+            "nodeType": "class",
+            "props": Object {
+              "bsClass": "row",
+              "children": Array [
+                <Col
+                  bsClass="col"
+                  className="featured-reviews-details"
+                  componentClass="div"
+                  xs={6}
+>
+                  <span
+                                    className="featured-review-ranking-xs"
+                  >
+                                    <FaStar
+                                                      className="filled-star-xs"
+                                    />
+                                    <FaStar
+                                                      className="filled-star-xs"
+                                    />
+                                    <FaStar
+                                                      className="filled-star-xs"
+                                    />
+                                    <FaStar
+                                                      className="filled-star-xs"
+                                    />
+                                    <FaStar
+                                                      className="filled-star-xs"
+                                    />
+                  </span>
+                  <h5
+                                    className="featured-review-title"
+                  >
+                                    Fantastic Blender
+                  </h5>
+                  <p
+                                    className="featured-review-summary"
+                  >
+                                    This blender works amazingly, and blends within seconds. The single serve cups also work really well for smoothies or protein shakes!
+                  </p>
+                  <p>
+                                    <span
+                                                      className="featured-review-username"
+                                    >
+                                                      Eric
+                                    </span>
+                                     
+                                    <span
+                                                      className="review-date"
+                                    >
+                                                      April 18, 2013
+                                    </span>
+                  </p>
+</Col>,
+                <Col
+                  bsClass="col"
+                  className="featured-reviews-details"
+                  componentClass="div"
+                  xs={6}
+>
+                  <span
+                                    className="featured-review-ranking-xs"
+                  >
+                                    <FaStar
+                                                      className="filled-star-xs"
+                                    />
+                                    <FaStar
+                                                      className="empty-star-xs"
+                                    />
+                                    <FaStar
+                                                      className="empty-star-xs"
+                                    />
+                                    <FaStar
+                                                      className="empty-star-xs"
+                                    />
+                                    <FaStar
+                                                      className="empty-star-xs"
+                                    />
+                  </span>
+                  <h5
+                                    className="featured-review-title"
+                  >
+                                    Very unhappy
+                  </h5>
+                  <p
+                                    className="featured-review-summary"
+                  >
+                                    Less than 2 months after purchase it completely stopped working. First it wouldn't detect the pitcher when trying to blend a significant amount, a couple weeks later it wouldn't detect the single serve cup.
+                  </p>
+                  <p>
+                                    <span
+                                                      className="featured-review-username"
+                                    >
+                                                      New York
+                                    </span>
+                                      
+                                    <span
+                                                      className="review-date"
+                                    >
+                                                      March 11, 2013
+                                    </span>
+                  </p>
+</Col>,
+              ],
+              "componentClass": "div",
+            },
+            "ref": null,
+            "rendered": Array [
+              Object {
+                "instance": null,
+                "key": undefined,
+                "nodeType": "class",
+                "props": Object {
+                  "bsClass": "col",
+                  "children": Array [
+                    <span
+                      className="featured-review-ranking-xs"
+>
+                      <FaStar
+                                            className="filled-star-xs"
+                      />
+                      <FaStar
+                                            className="filled-star-xs"
+                      />
+                      <FaStar
+                                            className="filled-star-xs"
+                      />
+                      <FaStar
+                                            className="filled-star-xs"
+                      />
+                      <FaStar
+                                            className="filled-star-xs"
+                      />
+</span>,
+                    <h5
+                      className="featured-review-title"
+>
+                      Fantastic Blender
+</h5>,
+                    <p
+                      className="featured-review-summary"
+>
+                      This blender works amazingly, and blends within seconds. The single serve cups also work really well for smoothies or protein shakes!
+</p>,
+                    <p>
+                      <span
+                                            className="featured-review-username"
+                      >
+                                            Eric
+                      </span>
+                       
+                      <span
+                                            className="review-date"
+                      >
+                                            April 18, 2013
+                      </span>
+</p>,
+                  ],
+                  "className": "featured-reviews-details",
+                  "componentClass": "div",
+                  "xs": 6,
+                },
+                "ref": null,
+                "rendered": Array [
+                  Object {
+                    "instance": null,
+                    "key": undefined,
+                    "nodeType": "host",
+                    "props": Object {
+                      "children": Array [
+                        <FaStar
+                          className="filled-star-xs"
+/>,
+                        <FaStar
+                          className="filled-star-xs"
+/>,
+                        <FaStar
+                          className="filled-star-xs"
+/>,
+                        <FaStar
+                          className="filled-star-xs"
+/>,
+                        <FaStar
+                          className="filled-star-xs"
+/>,
+                      ],
+                      "className": "featured-review-ranking-xs",
+                    },
+                    "ref": null,
+                    "rendered": Array [
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "function",
+                        "props": Object {
+                          "className": "filled-star-xs",
+                        },
+                        "ref": null,
+                        "rendered": null,
+                        "type": [Function],
+                      },
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "function",
+                        "props": Object {
+                          "className": "filled-star-xs",
+                        },
+                        "ref": null,
+                        "rendered": null,
+                        "type": [Function],
+                      },
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "function",
+                        "props": Object {
+                          "className": "filled-star-xs",
+                        },
+                        "ref": null,
+                        "rendered": null,
+                        "type": [Function],
+                      },
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "function",
+                        "props": Object {
+                          "className": "filled-star-xs",
+                        },
+                        "ref": null,
+                        "rendered": null,
+                        "type": [Function],
+                      },
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "function",
+                        "props": Object {
+                          "className": "filled-star-xs",
+                        },
+                        "ref": null,
+                        "rendered": null,
+                        "type": [Function],
+                      },
+                    ],
+                    "type": "span",
+                  },
+                  Object {
+                    "instance": null,
+                    "key": undefined,
+                    "nodeType": "host",
+                    "props": Object {
+                      "children": "Fantastic Blender",
+                      "className": "featured-review-title",
+                    },
+                    "ref": null,
+                    "rendered": "Fantastic Blender",
+                    "type": "h5",
+                  },
+                  Object {
+                    "instance": null,
+                    "key": undefined,
+                    "nodeType": "host",
+                    "props": Object {
+                      "children": "This blender works amazingly, and blends within seconds. The single serve cups also work really well for smoothies or protein shakes!",
+                      "className": "featured-review-summary",
+                    },
+                    "ref": null,
+                    "rendered": "This blender works amazingly, and blends within seconds. The single serve cups also work really well for smoothies or protein shakes!",
+                    "type": "p",
+                  },
+                  Object {
+                    "instance": null,
+                    "key": undefined,
+                    "nodeType": "host",
+                    "props": Object {
+                      "children": Array [
+                        <span
+                          className="featured-review-username"
+>
+                          Eric
+</span>,
+                        " ",
+                        <span
+                          className="review-date"
+>
+                          April 18, 2013
+</span>,
+                      ],
+                    },
+                    "ref": null,
+                    "rendered": Array [
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "children": "Eric",
+                          "className": "featured-review-username",
+                        },
+                        "ref": null,
+                        "rendered": "Eric",
+                        "type": "span",
+                      },
+                      " ",
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "children": "April 18, 2013",
+                          "className": "review-date",
+                        },
+                        "ref": null,
+                        "rendered": "April 18, 2013",
+                        "type": "span",
+                      },
+                    ],
+                    "type": "p",
+                  },
+                ],
+                "type": [Function],
+              },
+              Object {
+                "instance": null,
+                "key": undefined,
+                "nodeType": "class",
+                "props": Object {
+                  "bsClass": "col",
+                  "children": Array [
+                    <span
+                      className="featured-review-ranking-xs"
+>
+                      <FaStar
+                                            className="filled-star-xs"
+                      />
+                      <FaStar
+                                            className="empty-star-xs"
+                      />
+                      <FaStar
+                                            className="empty-star-xs"
+                      />
+                      <FaStar
+                                            className="empty-star-xs"
+                      />
+                      <FaStar
+                                            className="empty-star-xs"
+                      />
+</span>,
+                    <h5
+                      className="featured-review-title"
+>
+                      Very unhappy
+</h5>,
+                    <p
+                      className="featured-review-summary"
+>
+                      Less than 2 months after purchase it completely stopped working. First it wouldn't detect the pitcher when trying to blend a significant amount, a couple weeks later it wouldn't detect the single serve cup.
+</p>,
+                    <p>
+                      <span
+                                            className="featured-review-username"
+                      >
+                                            New York
+                      </span>
+                        
+                      <span
+                                            className="review-date"
+                      >
+                                            March 11, 2013
+                      </span>
+</p>,
+                  ],
+                  "className": "featured-reviews-details",
+                  "componentClass": "div",
+                  "xs": 6,
+                },
+                "ref": null,
+                "rendered": Array [
+                  Object {
+                    "instance": null,
+                    "key": undefined,
+                    "nodeType": "host",
+                    "props": Object {
+                      "children": Array [
+                        <FaStar
+                          className="filled-star-xs"
+/>,
+                        <FaStar
+                          className="empty-star-xs"
+/>,
+                        <FaStar
+                          className="empty-star-xs"
+/>,
+                        <FaStar
+                          className="empty-star-xs"
+/>,
+                        <FaStar
+                          className="empty-star-xs"
+/>,
+                      ],
+                      "className": "featured-review-ranking-xs",
+                    },
+                    "ref": null,
+                    "rendered": Array [
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "function",
+                        "props": Object {
+                          "className": "filled-star-xs",
+                        },
+                        "ref": null,
+                        "rendered": null,
+                        "type": [Function],
+                      },
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "function",
+                        "props": Object {
+                          "className": "empty-star-xs",
+                        },
+                        "ref": null,
+                        "rendered": null,
+                        "type": [Function],
+                      },
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "function",
+                        "props": Object {
+                          "className": "empty-star-xs",
+                        },
+                        "ref": null,
+                        "rendered": null,
+                        "type": [Function],
+                      },
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "function",
+                        "props": Object {
+                          "className": "empty-star-xs",
+                        },
+                        "ref": null,
+                        "rendered": null,
+                        "type": [Function],
+                      },
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "function",
+                        "props": Object {
+                          "className": "empty-star-xs",
+                        },
+                        "ref": null,
+                        "rendered": null,
+                        "type": [Function],
+                      },
+                    ],
+                    "type": "span",
+                  },
+                  Object {
+                    "instance": null,
+                    "key": undefined,
+                    "nodeType": "host",
+                    "props": Object {
+                      "children": "Very unhappy",
+                      "className": "featured-review-title",
+                    },
+                    "ref": null,
+                    "rendered": "Very unhappy",
+                    "type": "h5",
+                  },
+                  Object {
+                    "instance": null,
+                    "key": undefined,
+                    "nodeType": "host",
+                    "props": Object {
+                      "children": "Less than 2 months after purchase it completely stopped working. First it wouldn't detect the pitcher when trying to blend a significant amount, a couple weeks later it wouldn't detect the single serve cup.",
+                      "className": "featured-review-summary",
+                    },
+                    "ref": null,
+                    "rendered": "Less than 2 months after purchase it completely stopped working. First it wouldn't detect the pitcher when trying to blend a significant amount, a couple weeks later it wouldn't detect the single serve cup.",
+                    "type": "p",
+                  },
+                  Object {
+                    "instance": null,
+                    "key": undefined,
+                    "nodeType": "host",
+                    "props": Object {
+                      "children": Array [
+                        <span
+                          className="featured-review-username"
+>
+                          New York
+</span>,
+                        "  ",
+                        <span
+                          className="review-date"
+>
+                          March 11, 2013
+</span>,
+                      ],
+                    },
+                    "ref": null,
+                    "rendered": Array [
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "children": "New York",
+                          "className": "featured-review-username",
+                        },
+                        "ref": null,
+                        "rendered": "New York",
+                        "type": "span",
+                      },
+                      "  ",
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "children": "March 11, 2013",
+                          "className": "review-date",
+                        },
+                        "ref": null,
+                        "rendered": "March 11, 2013",
+                        "type": "span",
+                      },
+                    ],
+                    "type": "p",
+                  },
+                ],
+                "type": [Function],
+              },
+            ],
+            "type": [Function],
+          },
+        ],
+        "type": [Function],
+      },
+    ],
+    "type": "div",
+  },
+  Symbol(enzyme.__nodes__): Array [
+    Object {
+      "instance": null,
+      "key": undefined,
+      "nodeType": "host",
+      "props": Object {
+        "children": Array [
+          <Row
+            bsClass="row"
+            componentClass="div"
+>
+            <Col
+                        bsClass="col"
+                        className="featured-reviews-header"
+                        componentClass="div"
+                        xs={6}
+            >
+                        <span
+                                    className="featured-review-ranking-md"
+                        >
+                                    <FaStar
+                                                className="filled-star-md"
+                                    />
+                                    <FaStar
+                                                className="filled-star-md"
+                                    />
+                                    <FaStar
+                                                className="filled-star-md"
+                                    />
+                                    <FaStar
+                                                className="filled-star-md"
+                                    />
+                                    <FaStar
+                                                className="filled-star-md"
+                                    />
+                        </span>
+                        <span
+                                    className="overall-review-ranking"
+                        >
+                                    overall
+                        </span>
+            </Col>
+            <Col
+                        bsClass="col"
+                        className="all-reviews"
+                        componentClass="div"
+                        xs={6}
+            >
+                        <Link
+                                    className="all-reviews-link"
+                                    replace={false}
+                                    to="/reviews"
+                        >
+                                    <span
+                                                className="all-reviews-span"
+                                    >
+                                                view all 14 reviews
+                                    </span>
+                        </Link>
+            </Col>
+</Row>,
+          <Well
+            bsClass="well"
+            className="well"
+>
+            <Row
+                        bsClass="row"
+                        className="featured-reviews-well-header"
+                        componentClass="div"
+            >
+                        <Col
+                                    bsClass="col"
+                                    className="featured-postive-review"
+                                    componentClass="div"
+                                    xs={6}
+                        >
+                                    <p
+                                                className="featured-review-heading"
+                                    >
+                                                PRO
+                                    </p>
+                                    <p
+                                                className="featured-review-category"
+                                    >
+                                                most helpful 4-5 star review
+                                    </p>
+                        </Col>
+                        <Col
+                                    bsClass="col"
+                                    className="featured-negative-review"
+                                    componentClass="div"
+                                    xs={6}
+                        >
+                                    <p
+                                                className="featured-review-heading"
+                                    >
+                                                CON
+                                    </p>
+                                    <p
+                                                className="featured-review-category"
+                                    >
+                                                most helpful 1-2 star review
+                                    </p>
+                        </Col>
+            </Row>
+            <Row
+                        bsClass="row"
+                        componentClass="div"
+            >
+                        <Col
+                                    bsClass="col"
+                                    className="featured-reviews-details"
+                                    componentClass="div"
+                                    xs={6}
+                        >
+                                    <span
+                                                className="featured-review-ranking-xs"
+                                    >
+                                                <FaStar
+                                                            className="filled-star-xs"
+                                                />
+                                                <FaStar
+                                                            className="filled-star-xs"
+                                                />
+                                                <FaStar
+                                                            className="filled-star-xs"
+                                                />
+                                                <FaStar
+                                                            className="filled-star-xs"
+                                                />
+                                                <FaStar
+                                                            className="filled-star-xs"
+                                                />
+                                    </span>
+                                    <h5
+                                                className="featured-review-title"
+                                    >
+                                                Fantastic Blender
+                                    </h5>
+                                    <p
+                                                className="featured-review-summary"
+                                    >
+                                                This blender works amazingly, and blends within seconds. The single serve cups also work really well for smoothies or protein shakes!
+                                    </p>
+                                    <p>
+                                                <span
+                                                            className="featured-review-username"
+                                                >
+                                                            Eric
+                                                </span>
+                                                 
+                                                <span
+                                                            className="review-date"
+                                                >
+                                                            April 18, 2013
+                                                </span>
+                                    </p>
+                        </Col>
+                        <Col
+                                    bsClass="col"
+                                    className="featured-reviews-details"
+                                    componentClass="div"
+                                    xs={6}
+                        >
+                                    <span
+                                                className="featured-review-ranking-xs"
+                                    >
+                                                <FaStar
+                                                            className="filled-star-xs"
+                                                />
+                                                <FaStar
+                                                            className="empty-star-xs"
+                                                />
+                                                <FaStar
+                                                            className="empty-star-xs"
+                                                />
+                                                <FaStar
+                                                            className="empty-star-xs"
+                                                />
+                                                <FaStar
+                                                            className="empty-star-xs"
+                                                />
+                                    </span>
+                                    <h5
+                                                className="featured-review-title"
+                                    >
+                                                Very unhappy
+                                    </h5>
+                                    <p
+                                                className="featured-review-summary"
+                                    >
+                                                Less than 2 months after purchase it completely stopped working. First it wouldn't detect the pitcher when trying to blend a significant amount, a couple weeks later it wouldn't detect the single serve cup.
+                                    </p>
+                                    <p>
+                                                <span
+                                                            className="featured-review-username"
+                                                >
+                                                            New York
+                                                </span>
+                                                  
+                                                <span
+                                                            className="review-date"
+                                                >
+                                                            March 11, 2013
+                                                </span>
+                                    </p>
+                        </Col>
+            </Row>
+</Well>,
+        ],
+        "className": "featured-reviews-container",
+      },
+      "ref": null,
+      "rendered": Array [
+        Object {
+          "instance": null,
+          "key": undefined,
+          "nodeType": "class",
+          "props": Object {
+            "bsClass": "row",
+            "children": Array [
+              <Col
+                bsClass="col"
+                className="featured-reviews-header"
+                componentClass="div"
+                xs={6}
+>
+                <span
+                                className="featured-review-ranking-md"
+                >
+                                <FaStar
+                                                className="filled-star-md"
+                                />
+                                <FaStar
+                                                className="filled-star-md"
+                                />
+                                <FaStar
+                                                className="filled-star-md"
+                                />
+                                <FaStar
+                                                className="filled-star-md"
+                                />
+                                <FaStar
+                                                className="filled-star-md"
+                                />
+                </span>
+                <span
+                                className="overall-review-ranking"
+                >
+                                overall
+                </span>
+</Col>,
+              <Col
+                bsClass="col"
+                className="all-reviews"
+                componentClass="div"
+                xs={6}
+>
+                <Link
+                                className="all-reviews-link"
+                                replace={false}
+                                to="/reviews"
+                >
+                                <span
+                                                className="all-reviews-span"
+                                >
+                                                view all 14 reviews
+                                </span>
+                </Link>
+</Col>,
+            ],
+            "componentClass": "div",
+          },
+          "ref": null,
+          "rendered": Array [
+            Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "class",
+              "props": Object {
+                "bsClass": "col",
+                "children": Array [
+                  <span
+                    className="featured-review-ranking-md"
+>
+                    <FaStar
+                                        className="filled-star-md"
+                    />
+                    <FaStar
+                                        className="filled-star-md"
+                    />
+                    <FaStar
+                                        className="filled-star-md"
+                    />
+                    <FaStar
+                                        className="filled-star-md"
+                    />
+                    <FaStar
+                                        className="filled-star-md"
+                    />
+</span>,
+                  <span
+                    className="overall-review-ranking"
+>
+                    overall
+</span>,
+                ],
+                "className": "featured-reviews-header",
+                "componentClass": "div",
+                "xs": 6,
+              },
+              "ref": null,
+              "rendered": Array [
+                Object {
+                  "instance": null,
+                  "key": undefined,
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": Array [
+                      <FaStar
+                        className="filled-star-md"
+/>,
+                      <FaStar
+                        className="filled-star-md"
+/>,
+                      <FaStar
+                        className="filled-star-md"
+/>,
+                      <FaStar
+                        className="filled-star-md"
+/>,
+                      <FaStar
+                        className="filled-star-md"
+/>,
+                    ],
+                    "className": "featured-review-ranking-md",
+                  },
+                  "ref": null,
+                  "rendered": Array [
+                    Object {
+                      "instance": null,
+                      "key": undefined,
+                      "nodeType": "function",
+                      "props": Object {
+                        "className": "filled-star-md",
+                      },
+                      "ref": null,
+                      "rendered": null,
+                      "type": [Function],
+                    },
+                    Object {
+                      "instance": null,
+                      "key": undefined,
+                      "nodeType": "function",
+                      "props": Object {
+                        "className": "filled-star-md",
+                      },
+                      "ref": null,
+                      "rendered": null,
+                      "type": [Function],
+                    },
+                    Object {
+                      "instance": null,
+                      "key": undefined,
+                      "nodeType": "function",
+                      "props": Object {
+                        "className": "filled-star-md",
+                      },
+                      "ref": null,
+                      "rendered": null,
+                      "type": [Function],
+                    },
+                    Object {
+                      "instance": null,
+                      "key": undefined,
+                      "nodeType": "function",
+                      "props": Object {
+                        "className": "filled-star-md",
+                      },
+                      "ref": null,
+                      "rendered": null,
+                      "type": [Function],
+                    },
+                    Object {
+                      "instance": null,
+                      "key": undefined,
+                      "nodeType": "function",
+                      "props": Object {
+                        "className": "filled-star-md",
+                      },
+                      "ref": null,
+                      "rendered": null,
+                      "type": [Function],
+                    },
+                  ],
+                  "type": "span",
+                },
+                Object {
+                  "instance": null,
+                  "key": undefined,
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": "overall",
+                    "className": "overall-review-ranking",
+                  },
+                  "ref": null,
+                  "rendered": "overall",
+                  "type": "span",
+                },
+              ],
+              "type": [Function],
+            },
+            Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "class",
+              "props": Object {
+                "bsClass": "col",
+                "children": <Link
+                  className="all-reviews-link"
+                  replace={false}
+                  to="/reviews"
+>
+                  <span
+                                    className="all-reviews-span"
+                  >
+                                    view all 14 reviews
+                  </span>
+</Link>,
+                "className": "all-reviews",
+                "componentClass": "div",
+                "xs": 6,
+              },
+              "ref": null,
+              "rendered": Object {
+                "instance": null,
+                "key": undefined,
+                "nodeType": "class",
+                "props": Object {
+                  "children": <span
+                    className="all-reviews-span"
+>
+                    view all 14 reviews
+</span>,
+                  "className": "all-reviews-link",
+                  "replace": false,
+                  "to": "/reviews",
+                },
+                "ref": null,
+                "rendered": Object {
+                  "instance": null,
+                  "key": undefined,
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": "view all 14 reviews",
+                    "className": "all-reviews-span",
+                  },
+                  "ref": null,
+                  "rendered": "view all 14 reviews",
+                  "type": "span",
+                },
+                "type": [Function],
+              },
+              "type": [Function],
+            },
+          ],
+          "type": [Function],
+        },
+        Object {
+          "instance": null,
+          "key": undefined,
+          "nodeType": "class",
+          "props": Object {
+            "bsClass": "well",
+            "children": Array [
+              <Row
+                bsClass="row"
+                className="featured-reviews-well-header"
+                componentClass="div"
+>
+                <Col
+                                bsClass="col"
+                                className="featured-postive-review"
+                                componentClass="div"
+                                xs={6}
+                >
+                                <p
+                                                className="featured-review-heading"
+                                >
+                                                PRO
+                                </p>
+                                <p
+                                                className="featured-review-category"
+                                >
+                                                most helpful 4-5 star review
+                                </p>
+                </Col>
+                <Col
+                                bsClass="col"
+                                className="featured-negative-review"
+                                componentClass="div"
+                                xs={6}
+                >
+                                <p
+                                                className="featured-review-heading"
+                                >
+                                                CON
+                                </p>
+                                <p
+                                                className="featured-review-category"
+                                >
+                                                most helpful 1-2 star review
+                                </p>
+                </Col>
+</Row>,
+              <Row
+                bsClass="row"
+                componentClass="div"
+>
+                <Col
+                                bsClass="col"
+                                className="featured-reviews-details"
+                                componentClass="div"
+                                xs={6}
+                >
+                                <span
+                                                className="featured-review-ranking-xs"
+                                >
+                                                <FaStar
+                                                                className="filled-star-xs"
+                                                />
+                                                <FaStar
+                                                                className="filled-star-xs"
+                                                />
+                                                <FaStar
+                                                                className="filled-star-xs"
+                                                />
+                                                <FaStar
+                                                                className="filled-star-xs"
+                                                />
+                                                <FaStar
+                                                                className="filled-star-xs"
+                                                />
+                                </span>
+                                <h5
+                                                className="featured-review-title"
+                                >
+                                                Fantastic Blender
+                                </h5>
+                                <p
+                                                className="featured-review-summary"
+                                >
+                                                This blender works amazingly, and blends within seconds. The single serve cups also work really well for smoothies or protein shakes!
+                                </p>
+                                <p>
+                                                <span
+                                                                className="featured-review-username"
+                                                >
+                                                                Eric
+                                                </span>
+                                                 
+                                                <span
+                                                                className="review-date"
+                                                >
+                                                                April 18, 2013
+                                                </span>
+                                </p>
+                </Col>
+                <Col
+                                bsClass="col"
+                                className="featured-reviews-details"
+                                componentClass="div"
+                                xs={6}
+                >
+                                <span
+                                                className="featured-review-ranking-xs"
+                                >
+                                                <FaStar
+                                                                className="filled-star-xs"
+                                                />
+                                                <FaStar
+                                                                className="empty-star-xs"
+                                                />
+                                                <FaStar
+                                                                className="empty-star-xs"
+                                                />
+                                                <FaStar
+                                                                className="empty-star-xs"
+                                                />
+                                                <FaStar
+                                                                className="empty-star-xs"
+                                                />
+                                </span>
+                                <h5
+                                                className="featured-review-title"
+                                >
+                                                Very unhappy
+                                </h5>
+                                <p
+                                                className="featured-review-summary"
+                                >
+                                                Less than 2 months after purchase it completely stopped working. First it wouldn't detect the pitcher when trying to blend a significant amount, a couple weeks later it wouldn't detect the single serve cup.
+                                </p>
+                                <p>
+                                                <span
+                                                                className="featured-review-username"
+                                                >
+                                                                New York
+                                                </span>
+                                                  
+                                                <span
+                                                                className="review-date"
+                                                >
+                                                                March 11, 2013
+                                                </span>
+                                </p>
+                </Col>
+</Row>,
+            ],
+            "className": "well",
+          },
+          "ref": null,
+          "rendered": Array [
+            Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "class",
+              "props": Object {
+                "bsClass": "row",
+                "children": Array [
+                  <Col
+                    bsClass="col"
+                    className="featured-postive-review"
+                    componentClass="div"
+                    xs={6}
+>
+                    <p
+                                        className="featured-review-heading"
+                    >
+                                        PRO
+                    </p>
+                    <p
+                                        className="featured-review-category"
+                    >
+                                        most helpful 4-5 star review
+                    </p>
+</Col>,
+                  <Col
+                    bsClass="col"
+                    className="featured-negative-review"
+                    componentClass="div"
+                    xs={6}
+>
+                    <p
+                                        className="featured-review-heading"
+                    >
+                                        CON
+                    </p>
+                    <p
+                                        className="featured-review-category"
+                    >
+                                        most helpful 1-2 star review
+                    </p>
+</Col>,
+                ],
+                "className": "featured-reviews-well-header",
+                "componentClass": "div",
+              },
+              "ref": null,
+              "rendered": Array [
+                Object {
+                  "instance": null,
+                  "key": undefined,
+                  "nodeType": "class",
+                  "props": Object {
+                    "bsClass": "col",
+                    "children": Array [
+                      <p
+                        className="featured-review-heading"
+>
+                        PRO
+</p>,
+                      <p
+                        className="featured-review-category"
+>
+                        most helpful 4-5 star review
+</p>,
+                    ],
+                    "className": "featured-postive-review",
+                    "componentClass": "div",
+                    "xs": 6,
+                  },
+                  "ref": null,
+                  "rendered": Array [
+                    Object {
+                      "instance": null,
+                      "key": undefined,
+                      "nodeType": "host",
+                      "props": Object {
+                        "children": "PRO",
+                        "className": "featured-review-heading",
+                      },
+                      "ref": null,
+                      "rendered": "PRO",
+                      "type": "p",
+                    },
+                    Object {
+                      "instance": null,
+                      "key": undefined,
+                      "nodeType": "host",
+                      "props": Object {
+                        "children": "most helpful 4-5 star review",
+                        "className": "featured-review-category",
+                      },
+                      "ref": null,
+                      "rendered": "most helpful 4-5 star review",
+                      "type": "p",
+                    },
+                  ],
+                  "type": [Function],
+                },
+                Object {
+                  "instance": null,
+                  "key": undefined,
+                  "nodeType": "class",
+                  "props": Object {
+                    "bsClass": "col",
+                    "children": Array [
+                      <p
+                        className="featured-review-heading"
+>
+                        CON
+</p>,
+                      <p
+                        className="featured-review-category"
+>
+                        most helpful 1-2 star review
+</p>,
+                    ],
+                    "className": "featured-negative-review",
+                    "componentClass": "div",
+                    "xs": 6,
+                  },
+                  "ref": null,
+                  "rendered": Array [
+                    Object {
+                      "instance": null,
+                      "key": undefined,
+                      "nodeType": "host",
+                      "props": Object {
+                        "children": "CON",
+                        "className": "featured-review-heading",
+                      },
+                      "ref": null,
+                      "rendered": "CON",
+                      "type": "p",
+                    },
+                    Object {
+                      "instance": null,
+                      "key": undefined,
+                      "nodeType": "host",
+                      "props": Object {
+                        "children": "most helpful 1-2 star review",
+                        "className": "featured-review-category",
+                      },
+                      "ref": null,
+                      "rendered": "most helpful 1-2 star review",
+                      "type": "p",
+                    },
+                  ],
+                  "type": [Function],
+                },
+              ],
+              "type": [Function],
+            },
+            Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "class",
+              "props": Object {
+                "bsClass": "row",
+                "children": Array [
+                  <Col
+                    bsClass="col"
+                    className="featured-reviews-details"
+                    componentClass="div"
+                    xs={6}
+>
+                    <span
+                                        className="featured-review-ranking-xs"
+                    >
+                                        <FaStar
+                                                            className="filled-star-xs"
+                                        />
+                                        <FaStar
+                                                            className="filled-star-xs"
+                                        />
+                                        <FaStar
+                                                            className="filled-star-xs"
+                                        />
+                                        <FaStar
+                                                            className="filled-star-xs"
+                                        />
+                                        <FaStar
+                                                            className="filled-star-xs"
+                                        />
+                    </span>
+                    <h5
+                                        className="featured-review-title"
+                    >
+                                        Fantastic Blender
+                    </h5>
+                    <p
+                                        className="featured-review-summary"
+                    >
+                                        This blender works amazingly, and blends within seconds. The single serve cups also work really well for smoothies or protein shakes!
+                    </p>
+                    <p>
+                                        <span
+                                                            className="featured-review-username"
+                                        >
+                                                            Eric
+                                        </span>
+                                         
+                                        <span
+                                                            className="review-date"
+                                        >
+                                                            April 18, 2013
+                                        </span>
+                    </p>
+</Col>,
+                  <Col
+                    bsClass="col"
+                    className="featured-reviews-details"
+                    componentClass="div"
+                    xs={6}
+>
+                    <span
+                                        className="featured-review-ranking-xs"
+                    >
+                                        <FaStar
+                                                            className="filled-star-xs"
+                                        />
+                                        <FaStar
+                                                            className="empty-star-xs"
+                                        />
+                                        <FaStar
+                                                            className="empty-star-xs"
+                                        />
+                                        <FaStar
+                                                            className="empty-star-xs"
+                                        />
+                                        <FaStar
+                                                            className="empty-star-xs"
+                                        />
+                    </span>
+                    <h5
+                                        className="featured-review-title"
+                    >
+                                        Very unhappy
+                    </h5>
+                    <p
+                                        className="featured-review-summary"
+                    >
+                                        Less than 2 months after purchase it completely stopped working. First it wouldn't detect the pitcher when trying to blend a significant amount, a couple weeks later it wouldn't detect the single serve cup.
+                    </p>
+                    <p>
+                                        <span
+                                                            className="featured-review-username"
+                                        >
+                                                            New York
+                                        </span>
+                                          
+                                        <span
+                                                            className="review-date"
+                                        >
+                                                            March 11, 2013
+                                        </span>
+                    </p>
+</Col>,
+                ],
+                "componentClass": "div",
+              },
+              "ref": null,
+              "rendered": Array [
+                Object {
+                  "instance": null,
+                  "key": undefined,
+                  "nodeType": "class",
+                  "props": Object {
+                    "bsClass": "col",
+                    "children": Array [
+                      <span
+                        className="featured-review-ranking-xs"
+>
+                        <FaStar
+                                                className="filled-star-xs"
+                        />
+                        <FaStar
+                                                className="filled-star-xs"
+                        />
+                        <FaStar
+                                                className="filled-star-xs"
+                        />
+                        <FaStar
+                                                className="filled-star-xs"
+                        />
+                        <FaStar
+                                                className="filled-star-xs"
+                        />
+</span>,
+                      <h5
+                        className="featured-review-title"
+>
+                        Fantastic Blender
+</h5>,
+                      <p
+                        className="featured-review-summary"
+>
+                        This blender works amazingly, and blends within seconds. The single serve cups also work really well for smoothies or protein shakes!
+</p>,
+                      <p>
+                        <span
+                                                className="featured-review-username"
+                        >
+                                                Eric
+                        </span>
+                         
+                        <span
+                                                className="review-date"
+                        >
+                                                April 18, 2013
+                        </span>
+</p>,
+                    ],
+                    "className": "featured-reviews-details",
+                    "componentClass": "div",
+                    "xs": 6,
+                  },
+                  "ref": null,
+                  "rendered": Array [
+                    Object {
+                      "instance": null,
+                      "key": undefined,
+                      "nodeType": "host",
+                      "props": Object {
+                        "children": Array [
+                          <FaStar
+                            className="filled-star-xs"
+/>,
+                          <FaStar
+                            className="filled-star-xs"
+/>,
+                          <FaStar
+                            className="filled-star-xs"
+/>,
+                          <FaStar
+                            className="filled-star-xs"
+/>,
+                          <FaStar
+                            className="filled-star-xs"
+/>,
+                        ],
+                        "className": "featured-review-ranking-xs",
+                      },
+                      "ref": null,
+                      "rendered": Array [
+                        Object {
+                          "instance": null,
+                          "key": undefined,
+                          "nodeType": "function",
+                          "props": Object {
+                            "className": "filled-star-xs",
+                          },
+                          "ref": null,
+                          "rendered": null,
+                          "type": [Function],
+                        },
+                        Object {
+                          "instance": null,
+                          "key": undefined,
+                          "nodeType": "function",
+                          "props": Object {
+                            "className": "filled-star-xs",
+                          },
+                          "ref": null,
+                          "rendered": null,
+                          "type": [Function],
+                        },
+                        Object {
+                          "instance": null,
+                          "key": undefined,
+                          "nodeType": "function",
+                          "props": Object {
+                            "className": "filled-star-xs",
+                          },
+                          "ref": null,
+                          "rendered": null,
+                          "type": [Function],
+                        },
+                        Object {
+                          "instance": null,
+                          "key": undefined,
+                          "nodeType": "function",
+                          "props": Object {
+                            "className": "filled-star-xs",
+                          },
+                          "ref": null,
+                          "rendered": null,
+                          "type": [Function],
+                        },
+                        Object {
+                          "instance": null,
+                          "key": undefined,
+                          "nodeType": "function",
+                          "props": Object {
+                            "className": "filled-star-xs",
+                          },
+                          "ref": null,
+                          "rendered": null,
+                          "type": [Function],
+                        },
+                      ],
+                      "type": "span",
+                    },
+                    Object {
+                      "instance": null,
+                      "key": undefined,
+                      "nodeType": "host",
+                      "props": Object {
+                        "children": "Fantastic Blender",
+                        "className": "featured-review-title",
+                      },
+                      "ref": null,
+                      "rendered": "Fantastic Blender",
+                      "type": "h5",
+                    },
+                    Object {
+                      "instance": null,
+                      "key": undefined,
+                      "nodeType": "host",
+                      "props": Object {
+                        "children": "This blender works amazingly, and blends within seconds. The single serve cups also work really well for smoothies or protein shakes!",
+                        "className": "featured-review-summary",
+                      },
+                      "ref": null,
+                      "rendered": "This blender works amazingly, and blends within seconds. The single serve cups also work really well for smoothies or protein shakes!",
+                      "type": "p",
+                    },
+                    Object {
+                      "instance": null,
+                      "key": undefined,
+                      "nodeType": "host",
+                      "props": Object {
+                        "children": Array [
+                          <span
+                            className="featured-review-username"
+>
+                            Eric
+</span>,
+                          " ",
+                          <span
+                            className="review-date"
+>
+                            April 18, 2013
+</span>,
+                        ],
+                      },
+                      "ref": null,
+                      "rendered": Array [
+                        Object {
+                          "instance": null,
+                          "key": undefined,
+                          "nodeType": "host",
+                          "props": Object {
+                            "children": "Eric",
+                            "className": "featured-review-username",
+                          },
+                          "ref": null,
+                          "rendered": "Eric",
+                          "type": "span",
+                        },
+                        " ",
+                        Object {
+                          "instance": null,
+                          "key": undefined,
+                          "nodeType": "host",
+                          "props": Object {
+                            "children": "April 18, 2013",
+                            "className": "review-date",
+                          },
+                          "ref": null,
+                          "rendered": "April 18, 2013",
+                          "type": "span",
+                        },
+                      ],
+                      "type": "p",
+                    },
+                  ],
+                  "type": [Function],
+                },
+                Object {
+                  "instance": null,
+                  "key": undefined,
+                  "nodeType": "class",
+                  "props": Object {
+                    "bsClass": "col",
+                    "children": Array [
+                      <span
+                        className="featured-review-ranking-xs"
+>
+                        <FaStar
+                                                className="filled-star-xs"
+                        />
+                        <FaStar
+                                                className="empty-star-xs"
+                        />
+                        <FaStar
+                                                className="empty-star-xs"
+                        />
+                        <FaStar
+                                                className="empty-star-xs"
+                        />
+                        <FaStar
+                                                className="empty-star-xs"
+                        />
+</span>,
+                      <h5
+                        className="featured-review-title"
+>
+                        Very unhappy
+</h5>,
+                      <p
+                        className="featured-review-summary"
+>
+                        Less than 2 months after purchase it completely stopped working. First it wouldn't detect the pitcher when trying to blend a significant amount, a couple weeks later it wouldn't detect the single serve cup.
+</p>,
+                      <p>
+                        <span
+                                                className="featured-review-username"
+                        >
+                                                New York
+                        </span>
+                          
+                        <span
+                                                className="review-date"
+                        >
+                                                March 11, 2013
+                        </span>
+</p>,
+                    ],
+                    "className": "featured-reviews-details",
+                    "componentClass": "div",
+                    "xs": 6,
+                  },
+                  "ref": null,
+                  "rendered": Array [
+                    Object {
+                      "instance": null,
+                      "key": undefined,
+                      "nodeType": "host",
+                      "props": Object {
+                        "children": Array [
+                          <FaStar
+                            className="filled-star-xs"
+/>,
+                          <FaStar
+                            className="empty-star-xs"
+/>,
+                          <FaStar
+                            className="empty-star-xs"
+/>,
+                          <FaStar
+                            className="empty-star-xs"
+/>,
+                          <FaStar
+                            className="empty-star-xs"
+/>,
+                        ],
+                        "className": "featured-review-ranking-xs",
+                      },
+                      "ref": null,
+                      "rendered": Array [
+                        Object {
+                          "instance": null,
+                          "key": undefined,
+                          "nodeType": "function",
+                          "props": Object {
+                            "className": "filled-star-xs",
+                          },
+                          "ref": null,
+                          "rendered": null,
+                          "type": [Function],
+                        },
+                        Object {
+                          "instance": null,
+                          "key": undefined,
+                          "nodeType": "function",
+                          "props": Object {
+                            "className": "empty-star-xs",
+                          },
+                          "ref": null,
+                          "rendered": null,
+                          "type": [Function],
+                        },
+                        Object {
+                          "instance": null,
+                          "key": undefined,
+                          "nodeType": "function",
+                          "props": Object {
+                            "className": "empty-star-xs",
+                          },
+                          "ref": null,
+                          "rendered": null,
+                          "type": [Function],
+                        },
+                        Object {
+                          "instance": null,
+                          "key": undefined,
+                          "nodeType": "function",
+                          "props": Object {
+                            "className": "empty-star-xs",
+                          },
+                          "ref": null,
+                          "rendered": null,
+                          "type": [Function],
+                        },
+                        Object {
+                          "instance": null,
+                          "key": undefined,
+                          "nodeType": "function",
+                          "props": Object {
+                            "className": "empty-star-xs",
+                          },
+                          "ref": null,
+                          "rendered": null,
+                          "type": [Function],
+                        },
+                      ],
+                      "type": "span",
+                    },
+                    Object {
+                      "instance": null,
+                      "key": undefined,
+                      "nodeType": "host",
+                      "props": Object {
+                        "children": "Very unhappy",
+                        "className": "featured-review-title",
+                      },
+                      "ref": null,
+                      "rendered": "Very unhappy",
+                      "type": "h5",
+                    },
+                    Object {
+                      "instance": null,
+                      "key": undefined,
+                      "nodeType": "host",
+                      "props": Object {
+                        "children": "Less than 2 months after purchase it completely stopped working. First it wouldn't detect the pitcher when trying to blend a significant amount, a couple weeks later it wouldn't detect the single serve cup.",
+                        "className": "featured-review-summary",
+                      },
+                      "ref": null,
+                      "rendered": "Less than 2 months after purchase it completely stopped working. First it wouldn't detect the pitcher when trying to blend a significant amount, a couple weeks later it wouldn't detect the single serve cup.",
+                      "type": "p",
+                    },
+                    Object {
+                      "instance": null,
+                      "key": undefined,
+                      "nodeType": "host",
+                      "props": Object {
+                        "children": Array [
+                          <span
+                            className="featured-review-username"
+>
+                            New York
+</span>,
+                          "  ",
+                          <span
+                            className="review-date"
+>
+                            March 11, 2013
+</span>,
+                        ],
+                      },
+                      "ref": null,
+                      "rendered": Array [
+                        Object {
+                          "instance": null,
+                          "key": undefined,
+                          "nodeType": "host",
+                          "props": Object {
+                            "children": "New York",
+                            "className": "featured-review-username",
+                          },
+                          "ref": null,
+                          "rendered": "New York",
+                          "type": "span",
+                        },
+                        "  ",
+                        Object {
+                          "instance": null,
+                          "key": undefined,
+                          "nodeType": "host",
+                          "props": Object {
+                            "children": "March 11, 2013",
+                            "className": "review-date",
+                          },
+                          "ref": null,
+                          "rendered": "March 11, 2013",
+                          "type": "span",
+                        },
+                      ],
+                      "type": "p",
+                    },
+                  ],
+                  "type": [Function],
+                },
+              ],
+              "type": [Function],
+            },
+          ],
+          "type": [Function],
+        },
+      ],
+      "type": "div",
+    },
+  ],
+  Symbol(enzyme.__options__): Object {
+    "adapter": ReactSixteenAdapter {
+      "options": Object {
+        "enableComponentDidUpdateOnSetState": true,
+      },
+    },
+  },
+}
+`;
