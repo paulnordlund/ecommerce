@@ -1,7 +1,7 @@
 import axios from "axios";
 
 export async function getData() {
-  const response = await axios.get("https://raw.githubusercontent.com/paulnordlund/ecommerce/gh-pages/data/data.json");
+  const response = await axios.get("https://raw.githubusercontent.com/paulnordlund/ecommerce/master/public/data/data.json");
 
   return transformResponse(response);
 }
